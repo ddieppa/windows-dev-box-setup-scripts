@@ -13,8 +13,8 @@ These scripts should cover a lot of what you need but will not likely match your
 
 |Click link to run  |Description  |
 |---------|---------|
-|<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/ddieppa/windows-dev-box-setup-scripts/master/Personal/chocolateyfest2018.ps1'>ChocolateyFest 2018</a>     | DevOps tools and some examples of personalization |
-|     | Add to this list by submitting a PR with your example configuration!        |
+|<a href='http://boxstarter.org/package/url?https://raw.githubusercontent.com/ddieppa/windows-dev-box-setup-scripts/master/personal/dev_setup.ps1'>Personal Dev Setup</a>     | My own personalization of the box setup |
+    
 
 # Contributing
 Do you want to contribute? We would love your help. Here are our <a href="CONTRIBUTING.md">contribution guidelines</a>.
